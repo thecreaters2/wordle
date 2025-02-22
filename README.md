@@ -8,10 +8,16 @@
 1. Скачайте файлы проекта.
 2. Откройте `index.html` в любом браузере.
 
-## Разработка
+## Возможности игры
 
-- HTML / CSS / JavaScript
-- Можно редактировать стили и логику в файлах `style.css` и `script.js`.
+- Поддержка двух языков: английский и русский (переключение раскладки клавиатуры).
+- Поле 5×6 для ввода слов.
+- Цветовое обозначение:
+  - 🟩 Зеленый – буква на правильном месте.
+  - 🟨 Желтый – буква есть в слове, но на другом месте.
+  - ⬜ Серый – буквы нет в слове.
+- Темный режим.
+- Встроенный список слов.
 
 </details>
 
@@ -23,9 +29,15 @@
 1. Download the project files.
 2. Open `index.html` in any browser.
 
-## Development
+## Game Features
 
-- HTML / CSS / JavaScript
-- You can edit styles and logic in `style.css` and `script.js`.
+- Supports two languages: English and Russian (keyboard layout switching).
+- 5×6 grid for word input.
+- Color indicators:
+  - 🟩 Green – correct letter in the right place.
+  - 🟨 Yellow – correct letter in the wrong place.
+  - ⬜ Gray – letter not in the word.
+- Dark mode.
+- Built-in word list.
 
 </details>
